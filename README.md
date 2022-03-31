@@ -20,7 +20,7 @@ Points discussed :
 
  ## How it works ?
  
- :tv: Video tutorial on this same topic (Available from April-4-22)
+ :tv: Video tutorial on this same topic (Available from April-4-22)  
  Url : https://youtu.be/VYmsoCWjvM4
  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=VYmsoCWjvM4
